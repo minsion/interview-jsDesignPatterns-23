@@ -1,2 +1,2 @@
-# interview-design-patterns-28
-（核心题）设计模式（28道题）持续更新中...
+## interview-design-patterns-23
+### 1.JS设计模式23道面试题
